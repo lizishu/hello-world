@@ -1,5 +1,5 @@
-//# hello-world
-//My first demo
+# hello-world
+My first demo
 
 #include <cstdio>
 #include <cstring>
